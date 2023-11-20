@@ -2,7 +2,7 @@ const userFirstWord = prompt('insert first word');
 
 const userSecondWord = prompt('insert second word');
 
-function(userFirstWord, userSecondWord){
+function wordLenght (userFirstWord, userSecondWord){
     if( userFirstWord.lenght = userSecondWord.lenght){
         console.log(userFirstWord, userSecondWord);
 
